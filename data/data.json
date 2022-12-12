@@ -1,0 +1,54 @@
+[
+  {
+    "name": "pathshala",
+    "about": "Pathsala is an Online Learning Platform for Ssc and Hsc level students. Major Platform Features include syllabus-based tutorials, board paper solving, daily lessons, and so on. Students can choose their tutorial, view details, and buy with one-click.",
+    "banner": "https://i.ibb.co/qyFKpfZ/1.png",
+    "products": "https://i.ibb.co/rwf81KH/2.png",
+    "extra": "https://i.ibb.co/BcBsHx5/3.png",
+    "Live": "https://pathshala-official.web.app/",
+    "client": "https://github.com/taiyebnirjhar/Pathshala-client",
+    "server": "https://github.com/taiyebnirjhar/Pathshala-server",
+    "projectData": [
+      "This project is build with react,tailwind, firebase and react-router-dom for client side and expressjs for server side",
+      "Core focus was implimanting firebase authentication and private routes",
+      "The user interface is the backbone of this project. Since my target audience will be mostly 16 to 20 years  old students, I have maintained simplicity, easy-to-use, and a friendly color scheme ",
+      "To establish One-Click login/signup I have used the firebase authentication system. Through this students  will be able to create or login into their accounts without the extra hustle",
+      "Most Challenging ERROR: I have used vite for the first time in this project. In vite importing data from the “env” file  is different from the traditional one. To solve this bug I had to use “ import.meta.env “ instead of “proccess.env”."
+    ]
+  },
+
+  {
+    "name": "tastebuds",
+    "about": "Taste Buds is an independent food review platform. Where users can browse reviews of different types of food items before trying them out. We also help small restaurants to list their items on the website for marketing ",
+    "banner": "https://i.ibb.co/j8VM6R4/4.png",
+    "products": "https://i.ibb.co/Kypnp7n/5.png",
+    "extra": "https://i.ibb.co/31YD71d/6.png",
+    "Live": "https://tastebuds-official.web.app/",
+    "client": "https://github.com/taiyebnirjhar/Taste-buds-client",
+    "server": "https://github.com/taiyebnirjhar/Taste-buds-server",
+    "projectData": [
+      "Tastebuds is cloud kitchen based website which provides different kind of food item",
+      "User can check the rating and review of food item and also can add their review",
+      "The authenticity of the review has been implemented through a jwt-based login/sign-in system",
+      "Dynamic item generation, adding new food items, adding/removing comments established through  Express and MongoDB",
+      "user can post,update,read and delete their review . which is handled on backend (ex: express js as sever and mongodb as database)"
+    ]
+  },
+  {
+    "name": "koders",
+    "about": "Koders is an quiz test plateform. Where users can try thier skills by giving test in diffrent technologies",
+    "banner": "https://i.ibb.co/SccYsdt/7.png",
+    "products": "https://i.ibb.co/tJwWQq1/8.png",
+    "extra": "https://i.ibb.co/VpqbBmc/9.png",
+    "Live": "https://gleeful-palmier-5779c5.netlify.app/",
+    "client": "https://github.com/taiyebnirjhar/koders",
+    "server": "",
+    "projectData": [
+      "This project is build with react,tailwind, firebase and react-router-dom",
+      "To establish One-Click login/signup I have used the firebase authentication system. Through this students  will be able to create or login into their accounts without the extra hustle",
+      "The user interface is the backbone of this project.",
+      "Dynamic item generation, checking quizes etc established through  React",
+      "Most Challenging ERROR: I have used vite for the first time in this project. In vite importing data from the “env” file  is different from the traditional one. To solve this bug I had to use “ import.meta.env “ instead of “proccess.env”."
+    ]
+  }
+]
